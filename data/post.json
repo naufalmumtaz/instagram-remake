@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/Shot 1 Putih Ajigawa.png",
+    "description": "Dapatkan segera kaos Ajigawa terbaru dari kami!",
+    "likes": 2900,
+    "profile_id": 1
+  },
+  {
+    "id": 2,
+    "image": "../assets/crypto.jpg",
+    "description": "Thanks to elon musk!",
+    "likes": 1890,
+    "profile_id": 2
+  }
+]

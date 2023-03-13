@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "profile_name": "Ajigawa ID",
+    "profile_username": "ajigawa_id",
+    "profile_picture": "../assets/profiles/2.png",
+    "followed_by": [],
+    "follow_him": true,
+    "verified": true
+  },
+  {
+    "id": 2,
+    "profile_name": "Kasyfi isa sastrapratamma",
+    "profile_username": "kasyfi_bestie_hisyam",
+    "profile_picture": "../assets/profiles/1.jpg",
+    "followed_by": [],
+    "follow_him": true,
+    "verified": false
+  },
+  {
+    "id": 3,
+    "profile_name": "ottkaa",
+    "profile_username": "ottkaa",
+    "profile_picture": "../assets/profiles/3.jpg",
+    "followed_by": [],
+    "follow_him": false,
+    "verified": false
+  }
+]
